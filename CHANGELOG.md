@@ -10,3 +10,4 @@
 - docs: link the usage section
 - chore: clarify the setup steps
 - docs: fix a small wording issue
+- docs: clarify the setup steps
